@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fr._.</h1>
-<h3 align="center">A 9th grader and a devloper.</h3>
+<h3 align="center">A kid who does stuff on his laptop.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush32173&label=Profile%20views&color=0e75b6&style=flat" alt="ayush32173" /> </p>
 
