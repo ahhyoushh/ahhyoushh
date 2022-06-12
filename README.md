@@ -4,7 +4,6 @@
 
 [![Fr's wakatime status](https://github-readme-stats.vercel.app/api/wakatime?username=frbruh)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Wakatime Stats](https://wakatime.com/badge/user/038e9c8d-3c36-4d4d-a1e3-e6a3b7d06c26.svg?style=for-the-badge)](https://wakatime.com/@038e9c8d-3c36-4d4d-a1e3-e6a3b7d06c26)
 
 ## Current Projects -
 
