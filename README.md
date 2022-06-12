@@ -2,7 +2,6 @@
 
 [![Fr's github stats](https://github-readme-stats.vercel.app/api?username=frbruh&count_private=true&theme=radical)](https://github.com/CodyAaTherf/github-readme-stats)
 
-[![Fr's wakatime status](https://github-readme-stats.vercel.app/api/wakatime?username=frbruh)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Current Projects -
@@ -22,4 +21,4 @@
 
 - [GMail](mailto:bhaleraoayush06@gmail.com)
 - Discord -
-[![Discord Presence]([![Discord Presence](https://lanyard.cnrad.dev/api/yo._.#2525)](https://discord.com/users/yo._.#2525))
+[![Discord Presence](https://lanyard.cnrad.dev/api/yo._.#2525)](https://discord.com/users/yo._.#2525)
