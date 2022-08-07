@@ -1,24 +1,10 @@
-# Fr._.
+# AhhyouShh
 
-[![Fr's github stats](https://github-readme-stats.vercel.app/api?username=frbruh&count_private=true&theme=radical)](https://github.com/CodyAaTherf/github-readme-stats)
+[![Ahhyoushh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahhyoushh)](https://github.com/ahhyoushh/ahhyoushh/README.md)
 
 
-
-## Current Projects -
-
-- [todo-cli-python](https://github.com/frbruh/todo-cli)
-- [Discord.py Bot](https://github.com/frbruh/klux-bot)
-
-## Planned Projects -
-
-- [website (portfolio)](https://github.com/frbruh/website)
-
-## Other Repositories -
-
-- [opencv face detection](https://github.com/frbruh/opencv-facedetection-python)
-
-# Socials
-
-- [GMail](mailto:bhaleraoayush06@gmail.com)
 - Discord -
-[![Discord Presence](https://lanyard.cnrad.dev/api/yo._.#2525)](https://discord.com/users/yo._.#2525)
+[![Discord Presence](https://lanyard.cnrad.dev/api/806898787258990642)](https://discord.com/users/806898787258990642)
+
+- Visitors -
+![](https://komarev.com/ghpvc/?username=your-ahhyoushh)
