@@ -10,6 +10,7 @@
 - 📫 How to reach me **Discord ahhyoushh#2525**
 
 - ⚡ Fun fact **I am 13**
+- 🎖 **Certified spaghetti code writer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
