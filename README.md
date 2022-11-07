@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahhyoushh&label=Profile%20views&color=0e75b6&style=flat" alt="ahhyoushh" /> </p>
 
-- 🌱 I’m currently learning **Backend stuff with go!**
+- 🌱 I’m currently learning **studies**
 
 - 💬 Ask me about **python, kotlin and c!**
 
-- 📫 How to reach me **Discord ahhyoushh#2525**
+- 📫 How to reach me **Discord fr._.#2525**
 
-- ⚡ Fun fact **I am 13**
+- ⚡ Fun fact **I am 14**
 - 🎖 **Certified spaghetti code writer**
 
 <h3 align="left">Connect with me:</h3>
