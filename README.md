@@ -26,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahhyoushh&show_icons=true&locale=en" alt="ahhyoushh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahhyoushh&" alt="ahhyoushh" /></p>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=d3fnr6cprkspd9avbpdgcng4k)
