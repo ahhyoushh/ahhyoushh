@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">I belong to the species of homophobians!</h3>
+<h3 align="center">I belong to the species of homosapiens!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahhyoushh&label=Profile%20views&color=0e75b6&style=flat" alt="ahhyoushh" /> </p>
 
