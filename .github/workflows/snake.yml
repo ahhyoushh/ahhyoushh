@@ -1,9 +1,9 @@
-name: Generate Snake
+name: Generate Snake (Dark Mode)
 
 on:
   schedule:
     - cron: "0 0 * * *"  # runs every midnight UTC
-  workflow_dispatch:      # allow manual runs
+  workflow_dispatch:      # allows manual trigger
   push:
     branches:
       - main
@@ -16,11 +16,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake animation
+      - name: Generate dark snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: ahhyoushh   # your username here
-          outputs: dist/github-contribution-grid-snake.svg
+          github_user_name: ahhyoushh
+          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
