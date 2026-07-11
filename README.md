@@ -1,7 +1,5 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=ahhyoushh) 
 ### Ayush Bhalerao
-Currently in high school, building things to avoid existential fomo 
-
 <br>
 <a href="https://ahhyoushh.github.io">github.io</a> • <a href="mailto:iush.wrk@gmail.com">email</a> 
 <br><br>
