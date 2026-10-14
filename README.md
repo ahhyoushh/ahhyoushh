@@ -5,4 +5,4 @@
 
 ![snake animation](https://raw.githubusercontent.com/ahhyoushh/ahhyoushh/output/github-contribution-grid-snake-dark.svg)
 
-![Visitor count](https://count.getloli.com/@github%20profile)
+![github](https://count.getloli.com/@github?theme=booru-lewd&padding=5&offset=0&align=top&scale=0.7&pixelated=1&darkmode=auto)
